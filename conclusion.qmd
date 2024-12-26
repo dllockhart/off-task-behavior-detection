@@ -1,0 +1,11 @@
+---
+title: "Conclusion"
+---
+
+## Summary
+The Random Forest model achieved a Cohen Kappa Score of 0.49, showing moderate agreement between predictions and actual observations. 
+
+### Future Work
+- Use SMOTE for class imbalance correction.
+- Experiment with more complex models (XGBoost, LSTM).
+- Incorporate more features and fine-tune hyperparameters.
